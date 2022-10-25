@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Joseph Valle
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently studying Computer Science and Cybersecurity
-- 🏫 I go to school at Mount Saint Mary's University
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m interested in Mobile Development
+- 🌱 I've got degrees in Computer Science and Cybersecurity (BS)
 - 📫 How to reach me josephv2599@gmial.com

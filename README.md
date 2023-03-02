@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Joseph Valle
-- 👀 I’m interested in Mobile Development
+- 👀 I’m interested in Flutter Development
 - 🌱 I've got degrees in Computer Science and Cybersecurity (BS)
 - 📫 How to reach me josephv2599@gmial.com

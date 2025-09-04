@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joseph Valle
-- 🏥 I'm an Application Developer at VUMC/VICTR/RedCap
+- 🏥 I'm an Application Developer for VUMC/VICTR/REDCap/MyCap
 - 👀 I’m interested in Flutter Development
 - 🌱 I've got degrees in Computer Science and Cybersecurity (BS)
 - 📫 How to reach me josephv2599@gmial.com
